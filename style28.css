@@ -19,7 +19,6 @@ body {
 
 h1 {
 	filter: blur(1px);
-	/*filter: drop-shadow(3px 3px 5px #ff0);*/
 	text-shadow: 3px 3px 5px #ff0;
 	color: green;
 	text-align: center;
